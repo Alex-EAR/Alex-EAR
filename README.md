@@ -24,7 +24,7 @@ Identificar oportunidades de negocio ocultas en tus datos.
 Mejorar la eficiencia operativa mediante soluciones basadas en datos.
 Crear reportes claros y atractivos que guíen tus decisiones estratégicas.
 
-##🌍 Fuera del trabajo, me encanta los videojuegos, lo que alimenta mi curiosidad y creatividad para seguir aprendiendo y creciendo.
+## 🌍 Fuera del trabajo, me encanta los videojuegos, lo que alimenta mi curiosidad y creatividad para seguir aprendiendo y creciendo.
 
-##🤝 ¿Te gustaría trabajar conmigo?
+## 🤝 ¿Te gustaría trabajar conmigo?
 Estoy abierto a colaborar en proyectos que involucren análisis de datos, optimización de procesos o desarrollo de visualizaciones. Si buscas un aliado para dar vida a tus datos, ¡escríbeme!
