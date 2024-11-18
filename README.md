@@ -1,5 +1,3 @@
-![Uploading Technology LinkedIn Banner in Black Blue Simple Style.png…]()
-
 # Hola soy Alex 👋
 
 ## 📊  Data Analyst | Convirtiendo datos en historias que impulsan decisiones
