@@ -4,6 +4,11 @@
 
 Desde el primer momento en que descubrí cómo los datos pueden resolver problemas y responder preguntas complejas, supe que quería dedicar mi carrera a trabajar con ellos. Hoy, como Analista de Datos, ayudo a empresas a desentrañar el valor oculto en la información y a convertirlo en acciones concretas.
 
+## 🚀 ¿A dónde me dirijo?
+Mi visión como analista de datos es especializarme en inteligencia empresarial y automatización de procesos, contribuyendo a transformar datos en herramientas clave para la toma de decisiones. Aspiro a desarrollar soluciones innovadoras en machine learning y análisis avanzado, enfocándome en proyectos que generen un impacto tangible en las estrategias de las empresas.
+
+Mi meta es seguir aprendiendo, explorando nuevas tecnologías y liderando iniciativas basadas en datos que impulsen el futuro.
+
 ## 💻 ¿Qué me define?
 
 - Curiosidad insaciable: Siempre me pregunto el por qué detrás de los números.
